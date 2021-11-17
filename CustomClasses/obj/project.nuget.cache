@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vzX2ySHqu+KjGtlSJNr14qb8LFIY4rngJQGvkaHiP1gLB76Yj/SFX9QvAihakz2YRdpQUA9lo72SWC4KX3axA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vyach\\Desktop\\4ERTI\\Communication System Server\\CommunicationSystemServer\\CustomClasses\\CustomClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vyach\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vyach\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vyach\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

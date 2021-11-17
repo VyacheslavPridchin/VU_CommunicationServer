@@ -1,0 +1,9 @@
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\bin\Release\netstandard2.0\CustomClasses.deps.json
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\bin\Release\netstandard2.0\CustomClasses.dll
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\bin\Release\netstandard2.0\CustomClasses.pdb
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.AssemblyInfoInputs.cache
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.AssemblyInfo.cs
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.csproj.CoreCompileInputs.cache
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.dll
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.pdb
+C:\Users\vyach\Desktop\4ERTI\Communication System Server\CommunicationSystemServer\CustomClasses\obj\Release\netstandard2.0\CustomClasses.csprojAssemblyReference.cache
