@@ -1,3 +1,4 @@
+#### Not maintained by developers. Не поддерживается разработчиками.
 # VU_CommunicationServer
 
 Server for communication in the Overlay Client of the Virtual University.
